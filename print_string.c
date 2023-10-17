@@ -1,3 +1,4 @@
+#include "main.h"
 /**
  * print_string - Prints a string
  * @types: List a of arguments
